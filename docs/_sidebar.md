@@ -1,4 +1,4 @@
-- **Frontend:**
+- **Chapters:**
   - [Page structure](pages)
   - [Snippets](snippets)
   - [Sales funnel](funnel)
