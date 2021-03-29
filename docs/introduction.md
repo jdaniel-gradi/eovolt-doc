@@ -15,4 +15,4 @@ For contribute:
 2. git add.
 3. git commit -m"contribute commit"
 4. git push -u origin master
-5. Check live changes on: https://gradiweb.gitlab.io/prestashop-doc-template
+5. Check live changes on: https://gradiweb.gitlab.io/shopify-doc-template
